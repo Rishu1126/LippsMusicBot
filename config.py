@@ -37,7 +37,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Lippsxd/LippsMusicBot",
+    "https://github.com/Rishu1126/LippsMusicBot",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "lippsxd")
 GIT_TOKEN = getenv(
@@ -45,7 +45,7 @@ GIT_TOKEN = getenv(
 )  # Fill this variable if your upstream repository is private
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/pandazzzworld")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Red_societyy")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Vixen_vibes")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -87,7 +87,7 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/8bdea9d933e1a0bb08035.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/6de37fd162bff1a72441a.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
