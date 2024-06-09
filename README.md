@@ -1,6 +1,6 @@
 <h2 align="center"> 
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/Rishu1126/LippsMusicBot&branch=lippsxdf&name=hungamamusicbott)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/Rishu1126/LippsMusicBot&branch=lippsxd&name=hungamamusicbott)
     
     𝐋ɪᴘᴘꜱ 𝐌ᴜꜱɪᴄ 𝐁ᴏᴛ
    </h2>  
